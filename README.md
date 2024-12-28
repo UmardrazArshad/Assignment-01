@@ -1,7 +1,7 @@
 # Assignment-01
 ## **Understanding OpenAI Chat Completion API Parameters**
 
-## 1. Messages
+## 1. Messages 
 
 **Definition:**  Messages refer to the conversation history exchanged between the user and the AI. \
 This includes the user's inputs and the AI's responses.\
